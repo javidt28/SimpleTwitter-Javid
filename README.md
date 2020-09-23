@@ -37,10 +37,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [KAP](https://getkap.co/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
