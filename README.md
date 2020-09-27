@@ -40,7 +40,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/javidt28/SimpleTwitter-Javid/blob/master/app/Simple%20twitter%202.giff' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/javidt28/SimpleTwitter-Javid/blob/master/Simple%20twitter%202.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [KAP](https://getkap.co/).
 
